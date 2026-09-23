@@ -35,3 +35,6 @@ Server -->
 C:\Users\Emma\OneDrive - BHAK St Johann im Pongau\Desktop\Schule\IMCM\mitschrift\Understanding Domain Names and DNS Servers - Topic_ jsname=_kn3ccd.png
 
 Funktionsweise von Statischen Websites (Understanding Domain Names and DNS Servers - Topic_ jsname=_kn3ccd.png)
+
+
+In den 1990er Jahren wurden Websiten überwiegend statisch erhalten, Inhalte wurden als html-File auf einen Webserver hochgeladen. Bei jedem Aufruf der Website wurde das html - file vom Server aus den Browser des Nutzers übertragen. Die Inhalte waren also immer gleich unabhängig davon, we die Webseite aufhiel
