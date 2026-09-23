@@ -1,26 +1,41 @@
-IMCM-3BHK
+# IMCM-3BHK
 
 ## Einleitung
 
 ### Markdown
 
-*Markdown* ist eine Auszeichhnungssprache (*Markup Language*). Mit Auszeichnungssprachen wird Text strukturiert. Einige Markup-Languages sind z.B.:
+_Markdown_ ist eine Auszeichnungssprache (_Markup Language_). Mit Auszeichnungssprachen wird Text strukturiert. Einige Markup-Languages sind z.B.:
 
-- HTML (*Hypertext Markup Language*)
-- XML (*Extennsible Markup Language*)
-- MD (*Markdown*)
-- YAML (*YAML Ain´t Markup Language bzw. Yet        another Markup Language*)
+- HTML (_Hypertext Markup Language_)
+- XML (_Extensible Markup Language_)
+- MD (_Markdown_)
+- YAML (_YAML Ain't Markup Language_ bzw. _Yet Another Markup Language_)
 
-Markdown ist heutzutage weit verbreitet, insbesondere für die Erstellung von Dokumentationen, Blogs und Readme-Dateien in Softwareprojekten. ReadME.md-Dateien ist also die erste Anlaufstelle für Informationen über ein Projekt.
+Markdown ist heutzutage eine der beliebtesten Auszeichnungssprachen. Wenn eine README.md-Datei in einem GitHub-Repository vorhanden ist, wird diese automatisch auf der Startseite des Repositories angezeigt. Die README.md-Datei ist also die erste Anlaufstelle für alle, die sich über das Projekt informieren möchten.
 
 Um ein Git-Repository zu erstellen, sind folgende Schritte notwendig:
 
-- im gewünschten Verzeichnis im Terminal(bzw. CLI - *Command Line Interface*) den Befehl `git init` ausführen, um ein neues
-  Git-Repository zu erstellen.
-  
-> **Einschub zur Installation von Git:**
-> Falls bei der Eingabe von `git init` eine Fehlermeldung erscheint, dass der Befehl nicht gefunden wurde, ist Git wahrscheinlich nicht installiert.
-> In diesem Fall kann Git von der offiziellen Website [https://git-scm.com/](https://git-scm.com/) heruntergeladen und installiert werden. Bei der Installation wird der Befehl der Umgebungsvariable **Path** hinzugefügt. Darin sind die Bezeichnungen aller Programme enthalten, die im Terminal aufgerufen werden können.
+- im gewünschten Verzeichnis im Terminal (bzw. CLI - _Command Line Interface_) den Befehl `git init` ausführen
 
-- dann in GitHub-Desktop das lokale Repository hinzufügen(*File* -> *Add Local Repository*)
--nun kann über die Schaltfläche **Commit to master** und **Push origin** die Änderungen ins entfernte Repository auf GitHub übertragen werden.
+> **Einschub zur Installation von Git:**
+> Falls bei der Eingabe von `git init` die Meldung _"command not found"_ erscheint, ist Git nicht installiert und der Befehl wird nicht erkannt. Bei der Installation wird der Befehl der Umgebungsvariabe **PATH** hinzugefügt. Darin sind die Bezeichnungen aller Programme enthalten, die im Terminal aufgerufen werden können.
+
+- dann in GitHub-Desktop das lokale Repository hinzufügen (_File > Add Local Repository..._)
+- nun kann über die Schaltflächen **Commit to master** und **Push origin** der aktuelle Stand des Projekts in das GitHub-Repository hochgeladen werden
+
+
+Client -->  DNS Request johak.at ??? --> DNS Server
+DNS Server --> DNS Response 162.159.104.92 --> Client
+Client --> Http(s) Request Get Index. html --> Server
+Server -->
+
+## Statische und dynamische Website 
+
+C:\Users\Emma\OneDrive - BHAK St Johann im Pongau\Desktop\Schule\IMCM\mitschrift\Understanding Domain Names and DNS Servers - Topic_ jsname=_kn3ccd.png
+
+Funktionsweise von Statischen Websites (Understanding Domain Names and DNS Servers - Topic_ jsname=_kn3ccd.png)
+
+
+In den 1990er Jahren wurden Websiten überwiegend statisch erhalten, Inhalte wurden als html-File auf einen Webserver hochgeladen. Bei jedem Aufruf der Website wurde das html - file vom Server aus den Browser des Nutzers übertragen. Die Inhalte waren also immer gleich unabhängig davon, we die Webseite aufhiel
+
+Die Abblidung zeigt die Funktionsweise von statischen Webseiten. Zuerst muss der Domain-Name pber das  Domain Name System (DNS) in die IP-Adresse des Webservers 
