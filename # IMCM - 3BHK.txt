@@ -22,3 +22,16 @@ Um ein Git-Repository zu erstellen, sind folgende Schritte notwendig:
 
 - dann in GitHub-Desktop das lokale Repository hinzufügen (_File > Add Local Repository..._)
 - nun kann über die Schaltflächen **Commit to master** und **Push origin** der aktuelle Stand des Projekts in das GitHub-Repository hochgeladen werden
+
+
+
+Client -->  DNS Request johak.at ??? --> DNS Server
+DNS Server --> DNS Response 162.159.104.92 --> Client
+Client --> Http(s) Request Get Index. html --> Server
+Server -->
+
+## Statische und dynamische Website 
+
+C:\Users\Emma\OneDrive - BHAK St Johann im Pongau\Desktop\Schule\IMCM\mitschrift\Understanding Domain Names and DNS Servers - Topic_ jsname=_kn3ccd.png
+
+Funktionsweise von Statischen Websites (Understanding Domain Names and DNS Servers - Topic_ jsname=_kn3ccd.png)
