@@ -1,0 +1,26 @@
+# IMCM - 3BHK
+## Einleitung
+## Markdown
+
+
+
+
+
+
+
+- MD (_Markdown_)
+- YAML (_YAML Ain´t another Markup Language_)
+
+Markdown ist heutzutage
+
+Um ein Git.Repository zu erstellen, sind folgende Schritte notwendig:
+
+-Git Installieren
+
+- im gewünschten Verzeichnis im Terminal den Befehl `git init` ausführen
+
+
+--- 
+
+
+Falls bei der Eingabe von `git init` die Meldung _ "Command not found"_ erscheint, ist Git nicht installiert und der Befehl wird nicht erkannt. Bei der Installation wird der Befehl der Umgebungsvariable **PATH** hinzugefügt.  Darin sind 
