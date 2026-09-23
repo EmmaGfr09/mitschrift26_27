@@ -38,4 +38,4 @@ Funktionsweise von Statischen Websites (Understanding Domain Names and DNS Serve
 
 In den 1990er Jahren wurden Websiten überwiegend statisch erhalten, Inhalte wurden als html-File auf einen Webserver hochgeladen. Bei jedem Aufruf der Website wurde das html - file vom Server aus den Browser des Nutzers übertragen. Die Inhalte waren also immer gleich unabhängig davon, we die Webseite aufhiel
 
-Die Abblidung zeigt die Funktionsweise von statischen Webseiten. Zuerst muss der Domain-Name pber das  Domain Name System (DNS) in die IP-Adresse des Webservers 
+Die Abblidung zeigt die Funktionsweise von statischen Webseiten. Zuerst muss der Domain-Name pber das  Domain Name System (DNS) in die IP-Adresse des Webservers aufgelöst werden.  (Schritt 1 und 2 in der Abbildung) Dnanach schickt der CClient eine http-Anfrage an den entsprechenden Webserver und erhält dvon diesem eine http-Antwort, die üblicherweise zuerst die index.html enthält (Schritt 3 und 4)
